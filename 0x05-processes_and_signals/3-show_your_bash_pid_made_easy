@@ -1,0 +1,3 @@
+#!/usr/env/bin bash
+#display all processes
+prgep -flx ".*bash.*"
